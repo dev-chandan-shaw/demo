@@ -10,8 +10,4 @@ import { RouterOutlet } from '@angular/router';
 })
 export class AppComponent {
   name = "chandan";
-  
-  logFun() : void {
-    console.log(this.inputValue);
-  }
 }
